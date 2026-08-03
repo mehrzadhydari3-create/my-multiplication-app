@@ -1,0 +1,6 @@
+{
+  "name": "جدول ضرب جادویی",
+  "description": "برنامه فانتزی و افلاین آموزش جدول ضرب به کلاس سومی‌ها با سیستم مرحله‌ای، بازی و جوایز جذاب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
